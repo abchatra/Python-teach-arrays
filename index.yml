@@ -9,3 +9,4 @@ contacts:
     homePageUrl: https://github.com/abchatra
 units:
   - unit1/index.yml
+  - unit2/index.yml
